@@ -1,2 +1,9 @@
-# kz-nlp
+# Kaz-NLP
 kz-nlp
+
+
+
+# 
+
+
+
